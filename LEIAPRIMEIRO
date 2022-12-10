@@ -1,0 +1,19 @@
+# jogo-da-velha
+
+Tentei subir o projeto inteiro em react pelo git mas não consegui, porém só utilizei esse código, então se gerar o projeto em react e substituir o arquivo App.js pelo
+arquivo do repositorio ele irá funcionar.
+
+
+SIGA OS PASSOS SEGUINTES
+
+baixe o node js e instale
+
+apos a instalação abre o terminal do visualStudio e coloque o seguinte código
+
+npx create-react-app jogodavelha
+
+apos isso ele irá criar um projeto react, entre na pasta e subistua o codigo do arquivo App.js pelo codigo do repositorio.
+apos isso novamente pelo terminal do visualStudio entre na pasta e pode iniciar o projeto
+
+cd jogodavelha
+npm start
